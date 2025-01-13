@@ -22,7 +22,7 @@ menu:
           weight: 3
 
 params:
-    description: "I am a Postdoctoral Fellow in Geophysics at the Colorado School of Mines. My research is motivated by the recognition that it is paramount to resolve the nonlinear physics of glacier ice and the processes of ice fracture to better understand the changing global climate. I endeavor to quantify the relevant timescales affecting glacier and ice sheet change across spatial scales, reconciling observations of ice fracture and iceberg calving with mechanical and statistical models."
+    description: "Using Satellite Data to Decipher Earth Systems"
     #author: Joanna Millstein
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
