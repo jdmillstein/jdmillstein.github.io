@@ -35,9 +35,9 @@
 
 body {
     background-image: url("../../../images/banner.jpeg");
-    background-size: contain;
+    background-size: auto;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: scroll;
 }
 
 main {
@@ -69,16 +69,16 @@ article {
 .list {
     /* background: var(--code-bg); */ /* Comment this out */
     background-image: url("../../../images/banner.jpeg");
-    background-size: contain;
-    background-position: fixed;
+    background-size: auto;
+    background-position: scroll;
 }
 
 
 .dark.list {
     /* background: var(--theme); */ /* Comment this out */
     background-image: url("../../../images/banner.jpeg");
-    background-size: contain;
-    background-position: fixed;
+    background-size: auto;
+    background-position: scroll;
 }
 
 .profile_inner {
@@ -86,8 +86,6 @@ article {
     padding: 20px;
     border-radius: var(--radius);
 }
-
-
 
 
 

@@ -43,6 +43,7 @@ params:
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
+    css:
     comments: false
     math: true
     profileMode:
