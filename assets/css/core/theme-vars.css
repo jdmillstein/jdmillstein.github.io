@@ -28,6 +28,30 @@
     --lineheight: 1.45;
     --lineclamp: 8;
     --marginleft: 26px;
+    --background-image: none;  /* add this line */
+
+    
+}
+
+body {
+    background-image: url("../../../images/banner.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+main {
+    background: transparent !important; /* Force main to be transparent */
+}
+
+.main {
+    background: transparent !important;
+}
+
+article {
+    background: var(--entry);  /* This keeps your content readable */
+    padding: 1rem;
+    border-radius: var(--radius);
 }
 
 .dark {
@@ -43,9 +67,33 @@
 }
 
 .list {
-    background: var(--code-bg);
+    /* background: var(--code-bg); */ /* Comment this out */
+    background-image: url("../../../images/banner.jpeg");
+    background-size: contain;
+    background-position: fixed;
 }
 
+
 .dark.list {
-    background: var(--theme);
+    /* background: var(--theme); */ /* Comment this out */
+    background-image: url("../../../images/banner.jpeg");
+    background-size: contain;
+    background-position: fixed;
+}
+
+.profile_inner {
+    background-color: var(--theme);  /* This will be white in light mode */
+    padding: 20px;
+    border-radius: var(--radius);
+}
+
+
+
+
+
+.post-single,
+.post-content {
+    background-color: var(--theme);
+    padding: 20px;
+    border-radius: var(--radius);
 }
