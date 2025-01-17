@@ -4,7 +4,7 @@
     --nav-width: 1024px;
     --main-width: 720px;
     --header-height: 44px;
-    --footer-height: 70px;
+    --footer-height: 54px;
     --radius: 8px;
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
@@ -24,7 +24,7 @@
     --h1size: 25px;
     --entrysize: 15px;
     --headersize: 16px;
-    --footersize: 13px;
+    --footersize: 12px;
     --lineheight: 1.45;
     --lineclamp: 8;
     --marginleft: 26px;
@@ -34,9 +34,9 @@
 }
 
 body {
-    background-image: url("/images/banner.jpeg");
+    background-image: url("/images/cracks.jpg");
     background-size: 100% 100%;  
-    background-position: center top;  /* Align to top center */
+    background-position: center;  /* Align to top center */
     background-attachment: fixed;  /* Fixed might work better than local */
     background-repeat: no-repeat;  /* Prevent repeating */
     min-height: 100vh;  
@@ -51,7 +51,7 @@ main {
 }
 
 article {
-    background: var(--entry);  /* This keeps your content readable */
+    background: var(--entry); 
     padding: 1rem;
     border-radius: var(--radius);
 }
@@ -69,22 +69,24 @@ article {
 }
 
 .list {
-    /* background: var(--code-bg); */ /* Comment this out */
-    background-image: url("/images/banner.jpeg");
+    /* background: var(--code-bg); */ 
+    background-image: url("/images/cracks.jpg");
     background-size: contain;
-    background-position: top;
+    background-position: right;
+    background-attachment: fixed;
 }
 
 
 .dark.list {
-    /* background: var(--theme); */ /* Comment this out */
-    background-image: url("/images/banner.jpeg");
+    /* background: var(--theme); */ 
+    background-image: url("/images/cracks.jpg");
     background-size: contain;
-    /*background-position: scroll;*/
+    background-position: right;
+    background-attachment: fixed;
 }
 
 .profile_inner {
-    background-color: var(--theme);  /* This will be white in light mode */
+    background-color: var(--theme);  
     padding: 20px;
     border-radius: var(--radius);
 }

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Calving on Joanna Millstein</title>
-    <link>http://localhost:1313/tags/calving/</link>
+    <link>https://jdmillstein.github.io/tags/calving/</link>
     <description>Recent content in Calving on Joanna Millstein</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/calving/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdmillstein.github.io/tags/calving/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>47 Years of Large Antarctic Calving Events: Insights From Extreme Value Theory</title>
-      <link>http://localhost:1313/research/evt/</link>
+      <link>https://jdmillstein.github.io/research/evt/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/evt/</guid>
+      <guid>https://jdmillstein.github.io/research/evt/</guid>
       <description>This paper determines a model for large icebergs. Published in the Geophysical Research Letters, 2024.</description>
     </item>
   </channel>

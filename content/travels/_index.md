@@ -13,6 +13,8 @@ description: "Some of the places I've been."
 
 <img src="/images/jirp2021drone.jpeg" alt="jirp" style="width: 100%;">
 
+<img src="/images/20210702_140558.JPG" alt="inside" style="width: 100%;">
+
 <div style="display: flex; gap: 5px; justify-content: center;">
   <img src="/images/jdm2014.JPG" alt="greenland" style="width: 50%;">
   <img src="/images/wgris.JPG" alt="jirp" style="width: 50%;">
