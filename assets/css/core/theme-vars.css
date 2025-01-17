@@ -34,10 +34,12 @@
 }
 
 body {
-    background-image: url("../../../images/banner.jpeg");
-    background-size: contain;
-    background-position: bottom;
-    background-attachment: local;
+    background-image: url("/images/banner.jpeg");
+    background-size: 100% 100%;  
+    background-position: center top;  /* Align to top center */
+    background-attachment: fixed;  /* Fixed might work better than local */
+    background-repeat: no-repeat;  /* Prevent repeating */
+    min-height: 100vh;  
 }
 
 main {
@@ -68,7 +70,7 @@ article {
 
 .list {
     /* background: var(--code-bg); */ /* Comment this out */
-    background-image: url("../../../images/banner.jpeg");
+    background-image: url("/images/banner.jpeg");
     background-size: contain;
     background-position: top;
 }
@@ -76,7 +78,7 @@ article {
 
 .dark.list {
     /* background: var(--theme); */ /* Comment this out */
-    background-image: url("../../../images/banner.jpeg");
+    background-image: url("/images/banner.jpeg");
     background-size: contain;
     /*background-position: scroll;*/
 }
@@ -95,3 +97,4 @@ article {
     padding: 20px;
     border-radius: var(--radius);
 }
+
