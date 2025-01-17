@@ -35,9 +35,9 @@
 
 body {
     background-image: url("../../../images/banner.jpeg");
-    background-size: auto;
-    background-position: center;
-    background-attachment: scroll;
+    background-size: contain;
+    background-position: bottom;
+    background-attachment: local;
 }
 
 main {
@@ -69,16 +69,16 @@ article {
 .list {
     /* background: var(--code-bg); */ /* Comment this out */
     background-image: url("../../../images/banner.jpeg");
-    background-size: auto;
-    background-position: scroll;
+    background-size: contain;
+    background-position: top;
 }
 
 
 .dark.list {
     /* background: var(--theme); */ /* Comment this out */
     background-image: url("../../../images/banner.jpeg");
-    background-size: auto;
-    background-position: scroll;
+    background-size: contain;
+    /*background-position: scroll;*/
 }
 
 .profile_inner {
