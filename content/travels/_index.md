@@ -3,7 +3,7 @@ title: "Places I have been"
 description: "Some of the places I've been."
 ---
 
-<span style="font-size: 1.2em;">I've had amazing opportunities for fieldwork since becoming a glaciologist.</span>
+<span style="font-size: 1.2em;">I've had amazing opportunities for fieldwork throughout my career. These select photographs are from Alaska, Greenland, and Svalbard.</span>
 
 
 <div style="display: flex; gap: 5px; justify-content: center;">
