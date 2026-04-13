@@ -49,8 +49,8 @@ params:
     profileMode:
           enabled: true
           title: Joanna D. Millstein
-          subtitle: "I am a Postdoctoral Fellow in Geophysics at the Colorado School of Mines. Recently, I recieved my PhD in Geophysics from the Massachusetts Institute of Technology, as a member of the MIT-WHOI Joint Program in Oceanography and Engineering. My dissertation is entitled <i>The Flow and Fracture of Antarctic Ice Shelves</i>. <br><br> 
-          I'm a geophysicist working to innovate on and develop new methods and models to understand the movement, stability, and fracture of glaciers and the subsurface. My research is motivated to resolve the nonlinear physics of glacier ice to better understand future global climate change. I use observational data, from satellites and measurements in the field, to derive mechanical and statistical models for glacier ice processes."
+          subtitle: "I am the Technical Lead at Adaptora, a <a href=\"http://tensora.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Tensora</a> Company, building novel systems for coastal change early-warning and future scenario forecasting. Previously, I was a Postdoctoral Fellow in Geophysics at the Colorado School of Mines and received my PhD in Geophysics from the Massachusetts Institute of Technology, as a member of the MIT-WHOI Joint Program in Oceanography and Engineering. My dissertation is entitled <i>The Flow and Fracture of Antarctic Ice Shelves</i>. <br><br>
+          I am a climate geophysicist working at the intersection of remote sensing, physics, and data-driven modeling to understand the deformation of the ground beneath our feet and extreme climate scenarios. I'm interested in advancing solutions for climate adaptation and resilience through rigorously tested science and creative collaborations."
           imageUrl: "headshot.png"
           imageWidth: 160
           imageHeight: 160
@@ -70,6 +70,8 @@ params:
           url: https://github.com/jdmillstein
         - name: Linkedin
           url: https://www.linkedin.com/in/jdmillstein17/
+        - name: Substack
+          url: https://substack.com/@risingseas
 
 
     assets:
